@@ -44,7 +44,7 @@ export const Projects = () => {
       title: "Portfolio Website",
       description: "Develop & Design ",
       imgUrl: projImg5,
-      Link: "https://devang127.github.io/WeatherForecastwebsite/"
+      Link: "https://devang127.github.io/Portfolio-website/"
     }
   ];
 
