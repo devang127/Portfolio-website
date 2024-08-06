@@ -4,10 +4,7 @@ import { Navbar, Nav, Container } from "react-bootstrap";
 import logo2 from '../assets/img/image.png';
 import navIcon1 from '../assets/img/nav-icon1.svg';
 import navIcon2 from '../assets/img/github.svg';
-// import { HashLink } from 'react-router-hash-link';
-// import {
-//   BrowserRouter as Router
-// } from "react-router-dom";
+
 
 export const NavBar = () => {
 
@@ -33,7 +30,7 @@ export const NavBar = () => {
   }
 
   return (
-    // <Router>
+    
       <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
         <Container>
           <Navbar.Brand href="/">
