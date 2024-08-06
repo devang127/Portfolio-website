@@ -10,7 +10,7 @@ export const Footer = () => {
     <footer className="footer">
       <Container>
         <Row className="align-items-center" id="social-icons-center">
-          {/* <MailchimpForm /> */}
+          
           <Col size={12} sm={6} className="text-center text-sm-center" >
             <div className="social-icon">
             <a href="http://linkedin.com/in/devang-sawant-730639311" target="_blank"><img src={navIcon1} alt="" /></a>
